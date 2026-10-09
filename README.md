@@ -1,3 +1,26 @@
+# THIS IS A FORK
+Mainly so that my plugins can update when a new version of Minecraft comes out a bit quicker. 
+
+```xml
+<repositories>
+	<repository>
+		<id>loohp-repo</id>
+		<url>https://repo.loohpjames.com/repository</url>
+	</repository>
+</repositories>
+
+<dependencies>
+	<dependency>
+		<groupId>com.github.cryptomorin</groupId>
+		<artifactId>XSeries</artifactId>
+		<version>14.0.0</version>
+		<scope>compile</scope>
+	</dependency>
+</dependencies>
+```
+
+***
+
 ![XSeries Logo](https://github.com/user-attachments/assets/4b179b17-3f2b-4640-bc50-df2275300bcb)
 
 # XSeries
