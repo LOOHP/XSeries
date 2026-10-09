@@ -25,7 +25,7 @@ Mainly so that my plugins can update when a new version of Minecraft comes out a
 
 # XSeries
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-26.1.2-dark_green.svg)](https://shields.io/)
+[![Minecraft](https://img.shields.io/badge/Minecraft-26.3-dark_green.svg)](https://shields.io/)
 [![Java](https://img.shields.io/badge/Java-8-dark_green.svg)](https://shields.io/)
 [![Build Status](https://api.travis-ci.com/CryptoMorin/XSeries.svg?branch=master)](https://app.travis-ci.com/github/CryptoMorin/XSeries)
 ![maven-central](https://img.shields.io/maven-central/v/com.github.cryptomorin/XSeries)
